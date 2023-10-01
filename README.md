@@ -1,5 +1,5 @@
-![MasterHead](https://wallpaperaccess.com/full/2109983.jpg)
-<h1 align="center">Hi 👋, I'm Vats</h1>
+
+<h1 align="center">Hi 👋, I'm Vats Kumar Sourav</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e473wrhf2f4ngulqk2t0bav0bwvh15r4sonfe0nidt1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
