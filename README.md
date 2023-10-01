@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/souravmish59505" target="blank"><img src="https://img.shields.io/twitter/follow/souravmish59505?logo=twitter&style=for-the-badge" alt="souravmish59505" /></a> </p>
 
-- 🔭 I’m currently working on **Web related **
+- 🔭 I’m currently working on **Web related projects**
 
 - 🌱 I’m currently learning **React.js**
 
